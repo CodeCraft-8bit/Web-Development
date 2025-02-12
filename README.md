@@ -4,7 +4,7 @@ This repository contains the code and resources for a web development project bu
 
 ## Features:
 
-    **Responsive Design:** Optimized for mobile and desktop views using CSS media queries.
+    __Responsive Design:__ Optimized for mobile and desktop views using CSS media queries.
     User Authentication: Implemented secure login and registration functionality.
     API Integration: Communicates with external APIs to fetch and display real-time data.
     Interactive UI: Built with JavaScript and front-end frameworks like React, Vue.js, or Angular.
