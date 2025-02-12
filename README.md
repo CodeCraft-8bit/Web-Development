@@ -1,9 +1,10 @@
 # Web Development Project
 
 This repository contains the code and resources for a web development project built using modern technologies. The goal of this project is to create a responsive, dynamic, and user-friendly web application with the latest tools and frameworks.
-Features:
 
-    Responsive Design: Optimized for mobile and desktop views using CSS media queries.
+## Features:
+
+    *** Responsive Design:** Optimized for mobile and desktop views using CSS media queries.
     User Authentication: Implemented secure login and registration functionality.
     API Integration: Communicates with external APIs to fetch and display real-time data.
     Interactive UI: Built with JavaScript and front-end frameworks like React, Vue.js, or Angular.
