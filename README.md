@@ -5,13 +5,12 @@ This repository contains the code and resources for a web development project bu
 ## Features:
 
 - __Responsive Design:__ Optimized for mobile and desktop views using CSS media queries.
-    
-    User Authentication: Implemented secure login and registration functionality.
-    API Integration: Communicates with external APIs to fetch and display real-time data.
-    Interactive UI: Built with JavaScript and front-end frameworks like React, Vue.js, or Angular.
-    Backend Support: Server-side logic powered by Node.js, Python (Flask/Django), or similar.
-    Database: Integrated with MySQL, MongoDB, or another database for storing user data and other information.
-    Deployment: Deployed to platforms like Netlify, Heroku, or AWS for live access.
+- __User Authentication:__ Implemented secure login and registration functionality.
+- __API Integration:__ Communicates with external APIs to fetch and display real-time data.
+- __Interactive UI:__ Built with JavaScript and front-end frameworks like React, Vue.js, or Angular.
+- __Backend Support:__ Server-side logic powered by Node.js, Python (Flask/Django), or similar.
+- __Database:__ Integrated with MySQL, MongoDB, or another database for storing user data and other information.
+- __Deployment:__ Deployed to platforms like Netlify, Heroku, or AWS for live access.
 
 ## Tech Stack:
 
