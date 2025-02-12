@@ -14,10 +14,10 @@ This repository contains the code and resources for a web development project bu
 
 ## Tech Stack:
 
-- __Frontend:__ HTML, CSS, JavaScript, React/Vue.js/Angular
-- __Backend:__ Node.js/Express, Python/Django/Flask
-- __Database:__ MySQL, MongoDB, PostgreSQL
-- __Tools:__ Git, GitHub, Webpack, NPM/Yarn
+    - __Frontend:__ HTML, CSS, JavaScript, React/Vue.js/Angular
+    - __Backend:__ Node.js/Express, Python/Django/Flask
+    - __Database:__ MySQL, MongoDB, PostgreSQL
+    - __Tools:__ Git, GitHub, Webpack, NPM/Yarn
 
 ## Setup:
 
